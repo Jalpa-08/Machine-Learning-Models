@@ -1,2 +1,2 @@
-# Machine-Learning-_Linear-Regression
+# Machine-Learning - Models
 Data set apply to Linear Regression Model
