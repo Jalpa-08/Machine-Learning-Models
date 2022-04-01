@@ -1,2 +1,2 @@
 # Machine-Learning - Models
-Data set apply to Linear Regression Model
+Different types of machine learning models are apply to different data sets. 
